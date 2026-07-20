@@ -7,7 +7,7 @@ levels for Northrend/WotLK**, applied consistently across creatures, quests,
 items, and mob-cast spells. Pure SQL - no C++, no client patches, no core
 recompile.
 
-> **⚠️ Heads up: this project is "vibecoded."** I'm not a programmer and
+> **⚠️ Heads up: this project is vibecoded.** I'm not a programmer and
 > don't claim any coding skill or experience. Every script in this repo was
 > written by an AI (Claude) based on my instructions, iterated over a long
 > back-and-forth conversation, and tested against real exports from my own
